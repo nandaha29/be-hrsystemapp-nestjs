@@ -1,8 +1,19 @@
 # HrsystemApp
 Web app base project used for Back-end Developer Practical Task of Nanda Hafiza Yusron
 
-## Tech
+## Tech Stack
 Nestjs + typescript + jwt + sqlite + prisma + zod
+
+- nestjs -> be like angular
+- typescript -> support juga
+- jwt -> berbasis token untuk authen
+- database DB /SQLITE -> untuk testing
+- ORM -> prisma
+- zod -> BE validation 
+
+## Feature
+- 
+
 
 ## Installation
 ```

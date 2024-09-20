@@ -38,4 +38,5 @@ https://github.com/nandaha29/myquezzy-react
 - link deploy :
 https://myquezzyapp.vercel.app/
 
- 
+ ## Loom
+- Link video: 

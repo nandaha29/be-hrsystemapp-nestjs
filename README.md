@@ -18,9 +18,9 @@ Nestjs + typescript + jwt + sqlite + prisma + zod
 ## Installation
 ```
 # clone this repository
-$ git clone https://github.com/nandaha29/myquezzy-react.git
+$ git clone https://github.com/nandaha29/be-hrsystemapp-nestjs
 # move to project folder
-$ cd myquezzy-react/myquiz-app/
+$ cd be-hrsystemapp-nestjs
 # install dependencies
 $ npm install
 ```
@@ -34,9 +34,9 @@ $ npm start
 
 ## Download Source Code
 - link repository github :
-https://github.com/nandaha29/myquezzy-react
+https://github.com/nandaha29/be-hrsystemapp-nestjs
 - link deploy :
-https://myquezzyapp.vercel.app/
+https://-
 
  ## Loom
 - Link video: 
